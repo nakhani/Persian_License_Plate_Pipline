@@ -1,0 +1,12 @@
+fire==0.7.0
+lmdb==1.6.2
+natsort==8.4.0
+nltk==3.9.1
+numpy==1.24.4
+opencv_python==4.11.0.86
+Pillow==11.2.1
+six==1.17.0
+torch==2.4.1
+torchvision==0.19.1
+ultralytics==8.3.146
+warpctc_pytorch==0.2.1
