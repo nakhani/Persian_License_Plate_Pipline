@@ -20,7 +20,7 @@ This repository provides a pipeline for **License Plate Detection, Recognition, 
    │── requirements.txt               # Dependencies
    │── README.md
 ```
-
+---
 ### 📌 Results
 
  **Identification and Verification Persian License Plate**
@@ -43,7 +43,7 @@ This repository provides a pipeline for **License Plate Detection, Recognition, 
   |------------|-------------|
   | 84m43612  | 0.99 |
   
-
+---
 ### 📌 Resources
 
 Store model weights in the `weights/` directory.
