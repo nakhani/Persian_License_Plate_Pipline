@@ -13,7 +13,7 @@ This repository provides a pipeline for **License Plate Detection, Recognition, 
    Persian_License_Plate_Pipeline/
    │── weights/                     # Pretrained model weights
    │── io/                           # Input/output images
-   │── deep_text_recognition_benchmark/
+   │── DTRB/
    │── identification.py             # Identification module
    │── verification.py               # Verification module
    │── dataset.py                    # Database connection
